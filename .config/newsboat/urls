@@ -1,8 +1,14 @@
 https://feeds.bbci.co.uk/news/science_and_environment/rss.xml
 https://feeds.bbci.co.uk/news/technology/rss.xml
 https://www.espn.com/espn/rss/mma/news
+https://www.gamingonlinux.com/article_rss.php
 https://www.reddit.com/r/linux/.rss
+https://www.reddit.com/r/linux_gaming/.rss
 https://www.reddit.com/r/debian/.rss
 https://www.reddit.com/r/mma/.rss
+https://backports.debian.org/index.rss
 https://www.debian.org/News/news
 https://www.debian.org/security/dsa
+https://linuxsecurity.com/advisories/debian?format=feed&type=rss
+https://www.networkworld.com/category/linux/index.rss
+https://www.phoronix.com/rss.php
